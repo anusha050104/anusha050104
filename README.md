@@ -2,8 +2,6 @@
 <h3 align="center">Sophomore MERN Full Stack Web Developer & Creative Designer | B.Tech Computer Science Undergraduate Student | Machine Learning Enthusiast</h3>
 <p align="center"> <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="anusha" /> </p>
 
-
----
 [![](https://visitcount.itsvg.in/api?id=Anusha0501&icon=4&color=10)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
@@ -29,7 +27,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anusha0501&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
