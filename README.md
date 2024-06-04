@@ -2,6 +2,10 @@
 <h3 align="center">Sophomore MERN Full Stack Web Developer & Creative Designer | B.Tech Computer Science Undergraduate Student | Machine Learning Enthusiast</h3>
 <p align="center"> <img src="https://e0.pxfuel.com/wallpapers/523/786/desktop-wallpaper-anime-computer-hacker-girl-anime-programming.jpg" alt="anusha" /> </p>
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anusha0501&icon=4&color=10)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with Mechmycar Brand Webapp<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
 
@@ -27,8 +31,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Anusha0501&icon=4&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
