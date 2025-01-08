@@ -4,9 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Anusha0501&icon=4&color=10)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55564866/129572054-2d4a217e-07d7-4dd1-80e7-4b5d3ed4b981.gif" alt="Coding" width="400" />
-</p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on Web Development<br><br>🌱 I’m currently learning AI/ML,UI/UX Designing,Web Development<br><br>👯 I’m looking to collaborate on Machine Learning Projects<br><br>🤝 I’m looking for help with Mechmycar Brand Webapp<br><br>👨‍💻 All of my projects are available at https://github.com/Anusha0501<br><br>📝 I regularly write articles on https://medium.com/@anusha.22cse<br><br>💬 Ask me about C++,Python,Java,Javascript,ML<br><br>📫 How to reach me anusha.22cse@bmu.edu.in<br><br>
@@ -21,9 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anusha0501&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anusha0501&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anusha0501&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyalaakarsh&theme=dark" alt="GitHub Streak Stats" />
-</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anusha0501&theme=radical&no-frame=false&no-bg=false&margin-w=4)
